@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp u/vincent g/staff
+chgrp u vincent, g staff
